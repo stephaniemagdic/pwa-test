@@ -7,7 +7,8 @@ deploy:
   provider: heroku
   api_key:
     secure: t7FtiZGSI1iHnEDoX7ThjAsg7vGsrpyMAHt05oxAVX1fEVEhqAzUthtGnBdY1hmRS5EVsE6uCKFeFxYgUjItvSZHyC1CQ52hkl1pawn/xHLPUrFSmc8HSsplWfz27ir2AnRBMUB7qyHwJ4BqDV8+MI/iRlSNznyr4NKzC+kKajYXkVgG7oO1KGdjd3MVDjnRq2+um07LJSNrYFKn/9WtvRvqO37rhMfJtJTvd57y2L5llwVAzf9T3BNsH1HiN9AnY/xvTPlRWjvvln10ilDioKhkuiXSFPtIPuOtByjNYf8Pc3iMp9BDwL2O4a3PARzHD8yPSKO4moAZvC2H7awZXbviIuSkOfpjXcUG9WcGEZFFVSYlb1kOre1n5VSLpwUINeViY+HBUXzxH4lMxDL2Yxr1Qg+GOxwVFuxjxNU2PcUw/Fc7+/wR6BfaP7k9ZSSwSukLV3b8Lk+eKFYleiq+9O6h15BsM2KTBF8l8dlK+AxaKBT1T2hmB0LCjNxfq7xPNYJx0IIo5gRfCfuDRs3K3XVQr+Mi81y9ptOPLZi/VBJ2VDggbp0Iw4z4n6m9SoYnEWdckBXALM029DjuZlUzDStUGc/v22Wawf0xYa7W1bbtn9+c1BTXVbAF3P6n3MnaOtrV/MUCqwOp77CwPAgEhaZwPC3BamkoF8b1M17c3JI=
-  app: pwa-test
+  app: pwa-test-sm
   on:
     repo: stephaniemagdic/pwa-test
     branch: main
+
